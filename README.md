@@ -38,6 +38,8 @@ product3.jpg
 
 script.js
 
+/html
+
 index.html
 
 products.html
