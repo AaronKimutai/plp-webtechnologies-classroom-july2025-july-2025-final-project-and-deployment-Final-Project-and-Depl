@@ -23,14 +23,25 @@ This is a multipage fashion collection website built as part of the PLP Web Tech
 
 ## File Structure
 /css
+
 style.css
+
 /images
+
 product1.jpg
+
 product2.jpg
+
 product3.jpg
+
 /js
+
 script.js
+
 index.html
+
 products.html
+
 about.html
+
 contact.html
